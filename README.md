@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Uso
 Para processar as imagens, siga estes passos:
-1. Coloque as imagens que deseja processar em uma pasta e especifique o caminho da pasta com as imagens em <code>pasta_imagens = "path-img"</code>.
+1. Coloque as imagens que deseja processar em uma pasta e especifique o caminho da pasta com as imagens em `pasta_imagens = "path-img"`.
 2. Execute o script principal com o comando:
 ```
 python resizeIMG.py
