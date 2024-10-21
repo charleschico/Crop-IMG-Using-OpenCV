@@ -30,7 +30,7 @@
     <h2 align="center" style="color: #0366d6;">Uso 📂</h2>
     <ol>
         <li>Coloque as imagens que deseja processar em uma pasta.</li>
-        <li>Execute o script principal: <code>python script.py</code></li>
+        <li>Execute o script principal: <code>python resizeIMG.py</code></li>
         <li>As imagens recortadas serão salvas automaticamente na mesma pasta em formato PNG.</li>
     </ol>
 </div>
