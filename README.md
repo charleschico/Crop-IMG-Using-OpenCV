@@ -27,4 +27,3 @@ Instale as dependências necessárias executando:
 
 ```bash
 pip install -r requirements.txt
-# Recorte-IMG-Usando-OpenCV
