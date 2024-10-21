@@ -15,7 +15,6 @@
     <ul>
         <li>💻 Python 3.6 ou superior.</li>
         <li>📦 Pacotes listados no <code>requirements.txt</code>.</li>
-        <li>🖥️ OpenCV instalado (<code>pip install opencv-python</code>).</li>
     </ul>
 </div>
 
