@@ -1,50 +1,36 @@
-<h2 align="left" style="color: #0366d6;">Detecção e Recorte de Imagem Usando OpenCV</h2>
+# Detecção e Recorte de Imagem Usando OpenCV
 
-<div style="margin-top: 20px;">
-    <h3 align="left" style="color: #0366d6;">Características</h3>
-    <ul style="line-height: 1.6;">
-        <li><strong>Detecção automática de rostos</strong> usando o OpenCV.</li>
-        <li><strong>Processamento em lote</strong> de todas as imagens em uma pasta.</li>
-        <li><strong>Geração de imagens circulares</strong> com fundo transparente.</li>
-        <li><strong>Salvamento automático</strong> das imagens processadas no formato PNG.</li>
-    </ul>
-</div>
+Este projeto utiliza o OpenCV para realizar a detecção e recorte de rostos em imagens, com suporte para processamento em lote e geração de imagens circulares com fundo transparente.
 
-<div style="margin-top: 20px;">
-    <h3 align="left" style="color: #0366d6;">Requisitos</h3>
-    <ul style="line-height: 1.6;">
-        <li>Python 3.6 ou superior.</li>
-        <li>Pacotes listados no <code>requirements.txt</code>.</li>
-    </ul>
-</div>
+## Características
+- Detecção automática de rostos utilizando o OpenCV.
+- Processamento em lote de todas as imagens em uma pasta.
+- Geração de imagens circulares com fundo transparente.
+- Salvamento automático das imagens processadas no formato PNG.
 
-<div style="margin-top: 20px;">
-    <h3 align="left" style="color: #0366d6;">Instalação</h3>
-    <ol style="line-height: 1.6;">
-        <li>Clone este repositório:
-        ```
-        git clone https://github.com/charleschico/Crop-IMG-Using-OpenCV.git
-        ```
-        </li>
-        <li>Instale as dependências:
-        ```
-        pip install -r requirements.txt
-        ```
-        </li>
-    </ol>
-</div>
+## Requisitos
+Para utilizar este projeto, você precisará de:
+- Python 3.6 ou superior.
+- Pacotes listados no arquivo `requirements.txt`.
 
-<div style="margin-top: 20px;">
-    <h3 align="left" style="color: #0366d6;">Uso</h3>
-    <ol style="line-height: 1.6;">
-        <li>Coloque as imagens que deseja processar em uma pasta.</li>
-        <li>Execute o script principal:
+## Instalação
+Para instalar as dependências e preparar o ambiente, execute os seguintes comandos:
 
-        ```
-        python resizeIMG.py
-        ```
+- Clone este repositório:
+```
+git clone https://github.com/charleschico/Crop-IMG-Using-OpenCV.git
+```
+- Instale as dependências:
+```
+pip install -r requirements.txt
+```
 
-        </li>
-        <li>As imagens recortadas serão salvas automaticamente na pasta escolhida em formato PNG.</li>
-    </ol>
-</div>
+## Uso
+Para processar as imagens, siga estes passos:
+1. Coloque as imagens que deseja processar em uma pasta.
+2. Execute o script principal com o comando:
+```
+python resizeIMG.py
+```
+4. As imagens recortadas serão salvas automaticamente na pasta escolhida, no formato PNG.
+
