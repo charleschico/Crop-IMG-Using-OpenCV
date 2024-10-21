@@ -31,6 +31,6 @@
     <ol>
         <li>Coloque as imagens que deseja processar em uma pasta.</li>
         <li>Execute o script principal: <code>python resizeIMG.py</code></li>
-        <li>As imagens recortadas serão salvas automaticamente na mesma pasta em formato PNG.</li>
+        <li>As imagens recortadas serão salvas automaticamente na pasta escolhida em formato PNG.</li>
     </ol>
 </div>
