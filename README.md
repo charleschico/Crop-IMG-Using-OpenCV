@@ -6,7 +6,6 @@
 - **Fundo Transparente**: As imagens são salvas com fundo transparente em formato PNG, ideal para perfis ou documentos.
 - **Processamento em Lote**: Processa todas as imagens em uma pasta de origem e salva na mesma pasta ou em outra configurada.
 
----
 
 ## 🛠️ Passos Principais do Código
 
@@ -19,7 +18,6 @@
 7. Cria uma nova imagem com fundo transparente e o rosto inserido em um círculo centralizado.
 8. Salva a imagem resultante em formato PNG na pasta de destino.
 
----
 
 ## ⚙️ Requisitos
 
