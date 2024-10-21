@@ -23,14 +23,14 @@
     <ol style="line-height: 1.6;">
         <li>Clone este repositório:
 
-        ```bash
+        ```
         git clone https://github.com/charleschico/Crop-IMG-Using-OpenCV.git
         ```
 
         </li>
         <li>Instale as dependências:
 
-        ```bash
+        ```
         pip install -r requirements.txt
         ```
         
@@ -44,7 +44,7 @@
         <li>Coloque as imagens que deseja processar em uma pasta.</li>
         <li>Execute o script principal:
 
-        ```bash
+        ```
         python resizeIMG.py
         ```
 
