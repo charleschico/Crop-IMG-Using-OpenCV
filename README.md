@@ -1,7 +1,5 @@
 # Detecção e Recorte de Imagem Usando OpenCV
 
-Este projeto utiliza o OpenCV para realizar a detecção e recorte de rostos em imagens, com suporte para processamento em lote e geração de imagens circulares com fundo transparente.
-
 ## Características
 - Detecção automática de rostos utilizando o OpenCV.
 - Processamento em lote de todas as imagens em uma pasta.
