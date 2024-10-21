@@ -22,18 +22,14 @@
     <h3 align="left" style="color: #0366d6;">Instalação</h3>
     <ol style="line-height: 1.6;">
         <li>Clone este repositório:
-
         ```
         git clone https://github.com/charleschico/Crop-IMG-Using-OpenCV.git
         ```
-
         </li>
         <li>Instale as dependências:
-
         ```
         pip install -r requirements.txt
         ```
-        
         </li>
     </ol>
 </div>
